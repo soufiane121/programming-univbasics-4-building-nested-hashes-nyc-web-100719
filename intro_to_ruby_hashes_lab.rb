@@ -2,8 +2,8 @@ def base_hash
   # Remember implicit return! We're returning this new Hash _without_ the
   # keyword "return." Nice and neat.
 	hash = {:key => ""}
-	hash.has_key?(:railroads)
-	hash
+p	hash.has_key?(:railroads)
+	
 	
 end
 
