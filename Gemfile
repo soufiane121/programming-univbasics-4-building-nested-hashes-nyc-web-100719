@@ -1,7 +1,4 @@
-# A sample Gemfile
 source "https://rubygems.org"
 
-# gem "rails"
-
-gem 'rspec'
-gem 'pry'
+gem "byebug"
+gem "rspec", "~> 3.2.0"
